@@ -1,4 +1,4 @@
-# dupplicate
+# flutter
 
 A new Flutter project.
 
